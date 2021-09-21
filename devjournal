@@ -1,0 +1,11 @@
+-------------------------------------------------------
+2021/09/21 takeshi:
+
+Get urldecode function from here:
+  https://github.com/abejfehr/URLDecode
+
+-------------------------------------------------------
+2021/09/21 takeshi:
+For the HTTP server, let's use code from https://github.com/whotwagner/SimpleWebserv
+
+
