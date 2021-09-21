@@ -47,7 +47,7 @@ node index.js
 ```
 
 ## Testing:
-Open this in chrome browser (it will not work in firefox as it doesn't support playing wav files).
+Open this URL in chrome browser:
 ```
 http://localhost:5000/text_to_speech?voice=mei_normal&text=おはようございます
 ```
