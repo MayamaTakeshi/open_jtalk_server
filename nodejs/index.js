@@ -8,8 +8,6 @@ const config = require('config')
 
 var app = express()
 
-var _cache_root_dir = "/var/run/speech_service_proxy/cache"
-
 app.get('/text_to_speech', function(req, res) {
 	var req_uuid = req.query.uuid
 
