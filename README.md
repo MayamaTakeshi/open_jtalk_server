@@ -9,6 +9,7 @@ HTTP response will be a wav file.
 Run:
 
 ```
+apt install -y build-essential
 ./prepare_assets.sh
 ```
 
